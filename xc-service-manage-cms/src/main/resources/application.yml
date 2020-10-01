@@ -1,0 +1,14 @@
+server:
+  port: 31001
+spring:
+  application:
+    name: xc-service-manage-cms
+  data:
+    mongodb:
+      host: 127.0.0.1
+      port: 27017
+      database: xuecheng_cms
+  freemarker:
+      cache: false
+      settings:
+       template_update_delay: 0
