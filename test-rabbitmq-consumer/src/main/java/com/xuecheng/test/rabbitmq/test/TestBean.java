@@ -10,5 +10,8 @@ public class TestBean {
 
     private Integer age;
 
+    private char a;
+
+
 
 }
